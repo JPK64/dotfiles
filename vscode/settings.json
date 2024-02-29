@@ -1,0 +1,103 @@
+{
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "editor.fontFamily": "'Roboto Mono', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.insertSpaces": false,
+    "editor.suggestSelection": "first",
+    "workbench.sideBar.location": "left",
+    "C_Cpp.default.cppStandard": "c++20",
+    "C_Cpp.default.cStandard": "c11",
+    "C_Cpp.loggingLevel": "Warning",
+    "telemetry.telemetryLevel": "off",
+    "editor.rulers": [
+        120
+    ],
+    "workbench.colorCustomizations": {
+        "editorRuler.foreground": "#181818"
+    },
+    "typescript.locale": "en",
+    "terminal.integrated.detectLocale": "off",
+    "git.autoStash": true,
+    "git.autofetch": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.codeLens": false,
+    "java.project.importHint": false,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "redhat.telemetry.enabled": false,
+    "files.associations": {
+        "*.h": "c",
+        "Doxyfile": "shellscript",
+        "*.fsh": "glsl",
+        "*.vsh": "glsl"
+    },
+    "debug.javascript.autoAttachFilter": "onlyWithFlag",
+    "[java]": {
+        "editor.defaultFormatter": "redhat.java"
+    },
+    "editor.bracketPairColorization.enabled": false,
+    "typescript.enablePromptUseWorkspaceTsdk": true,
+    "editor.unicodeHighlight.includeStrings": false,
+    "editor.unicodeHighlight.nonBasicASCII": false,
+    "debug.onTaskErrors": "showErrors",
+    "editor.codeLensFontFamily": "Roboto",
+    "terminal.integrated.fontSize": 13,
+    "editor.fontSize": 13,
+    "terminal.integrated.allowChords": false,
+    "git.confirmSync": false,
+    "todohighlight.keywords": [
+        {
+            "text": "NOTE",
+            "color": "#479fc0",
+            "backgroundColor": "#479fc040",
+            "overviewRulerColor": "#479fc080"
+        },
+        {
+            "text": "TODO",
+            "color": "#d1b37b",
+            "backgroundColor": "#d1b37b40",
+            "overviewRulerColor": "#d1b37b80"
+        },
+        {
+            "text": "FIXME",
+            "color": "#b81f40",
+            "backgroundColor": "#b81f4040",
+            "overviewRulerColor": "#b81f4080"
+        },
+        {
+            "text": "BUG",
+            "color": "#b81f40",
+            "backgroundColor": "#b81f4040",
+            "overviewRulerColor": "#b81f4080"
+        },
+        {
+            "text": "XXX",
+            "color": "#b81f40",
+            "backgroundColor": "#b81f4040",
+            "overviewRulerColor": "#b81f4080"
+        }
+    ],
+    "todohighlight.toggleURI": true,
+    "todohighlight.include": [
+        "**/*.js",
+        "**/*.jsx",
+        "**/*.ts",
+        "**/*.tsx",
+        "**/*.html",
+        "**/*.css",
+        "**/*.scss",
+        "**/*.php",
+        "**/*.rb",
+        "**/*.txt",
+        "**/*.mdown",
+        "**/*.md",
+        "**/*.sass"
+    ],
+    "git.openRepositoryInParentFolders": "never",
+    "cmake.showOptionsMovedNotification": false,
+    "window.zoomLevel": 1,
+    "workbench.tree.enableStickyScroll": false,
+    "workbench.commandPalette.experimental.askChatLocation": "quickChat",
+    "workbench.colorTheme": "Default Dark+"
+}
